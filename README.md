@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 117 Webstorm and Github Pages Following Tutorial Video
 
 You can use the [editor on GitHub](https://github.com/eileensanchez01/117webstorm_githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
